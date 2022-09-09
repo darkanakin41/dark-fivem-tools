@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.darkanakin41.darkfivemtools.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.darkanakin41.darkfivemtools.MyBundle
 
 class MyApplicationService {
 
